@@ -2,7 +2,7 @@
 ## Kodilla
 ### 4.1 List Iteration
 
-####Zadanie: Powtórzenie kolekcji
+#### Zadanie: Powtórzenie kolekcji
 Jak wspomnieliśmy we wprowadzeniu, rozpoczynamy serię zadań powtórkowych, które pozwolą na utrwalenie wiedzy zdobytej do tej pory.
 
 Wykorzystaj poniższą listę do iteracji w pętli for:
